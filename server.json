@@ -1,28 +1,28 @@
 {
   "foods": [
     {
-      "id": 1,
-      "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
-      "price": "19.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
-    },
-    {
-      "id": 2,
-      "name": "Veggie",
-      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
-    },
-    {
-      "id": 3,
-      "name": "A la Camarón",
-      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
+      "image": "https://cozinhalegal.com.br/files/receitas/792/Feijao-tropeiro-Simples-6.jpg",
+      "name": "Feijão Tropeiro",
+      "price": "12.90",
+      "description": "Se você gosta de comida mineira, aqui está uma de receita de feijão tropeiro.",
       "available": false,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+      "id": 1
+    },
+    {
+      "image": "https://cdn.guiadacozinha.com.br/wp-content/uploads/2018/10/pao-de-queijo-simples-e1579545309597.jpg",
+      "name": "Pão de Queijo",
+      "price": "11.90",
+      "description": "O tradicional pão de queijo mineiro que você respeita!",
+      "available": false,
+      "id": 2
+    },
+    {
+      "image": "https://cdn.guiadacozinha.com.br/wp-content/uploads/2019/10/frango-com-quiabo-e-polenta-44516.jpg",
+      "name": "Angu com quiabo",
+      "price": "18.90",
+      "description": "Todo mineiro ama uma polenta com quiabo acompanhado de um franguinho.",
+      "available": true,
+      "id": 3
     }
   ]
 }
